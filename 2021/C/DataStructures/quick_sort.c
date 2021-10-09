@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// this program is for quick sort
 void swap(int *a,int *b ){
     int tmp = *a;
     *a = *b;
